@@ -1,7 +1,7 @@
 ## Linux Topics
-   #### 01. What is 'OPERATING SYSTEM'
-   #### 02. File System Hierarchy
-   #### 03. Basic Commands
+   #### What is 'OPERATING SYSTEM'
+   #### File System Hierarchy
+   #### Basic Commands
    ```sh
    username
    date
@@ -13,7 +13,7 @@
    date
    cal
    ``` 
-   #### 04. View Files
+   #### View Files
    ```sh
    ls
    ls -l
@@ -25,7 +25,7 @@
    tail
    page
    ```
-   #### 05. Create and Delete Files
+   #### Create and Delete Files
    ```sh
    touch
    nano
@@ -37,7 +37,7 @@
    mkdir
    rmdir
    ```
-   #### 06. Managing files or directories
+   #### Managing files or directories
    ```sh
    cp
    mv
