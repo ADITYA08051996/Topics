@@ -3,11 +3,9 @@
    #### File System Hierarchy
    #### Basic Commands
    ```sh
-   username
    date
    man 
    who
-   fingures
    whoami
    uptime
    date
@@ -23,7 +21,6 @@
    more
    head
    tail
-   page
    ```
    #### Create and Delete Files
    ```sh
